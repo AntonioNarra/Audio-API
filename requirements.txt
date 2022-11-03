@@ -1,0 +1,2 @@
+audio_metadata==0.11.1
+Flask==2.2.2
